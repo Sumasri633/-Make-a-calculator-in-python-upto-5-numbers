@@ -1,1 +1,1 @@
-# -Make-a-calculator-in-python-upto-5-numbers
+# Make a calculator in python upto-5 numbers
